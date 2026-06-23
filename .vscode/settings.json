@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 15,
+            "mssqlOptions": {
+                "appName": "Pgadmin 4",
+                "useUTC": true,
+                "encrypt": true,
+                "trustServerCertificate": false
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "MSSQL",
+            "name": "Bluestock_Postgres",
+            "database": "bluestock_mf",
+            "username": "postgres",
+            "password": "Bharath123"
+        }
+    ]
+}
